@@ -1,0 +1,6 @@
+{
+  "name": "Dependência Química BR",
+  "description": "Central nacional de encaminhamento especializada no tratamento de dependência química, alcoolismo e saúde mental.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
